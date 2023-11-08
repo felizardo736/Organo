@@ -1,0 +1,46 @@
+.fundo {
+    background-color: #6278F7;
+    text-align: center;
+}
+
+.fundo img {
+    width: 50%;
+    max-height: 900px;
+}
+
+.logos {
+    background-color: #6278f7;
+    text-align: left;
+    display: flex;
+    height: 0px;
+    margin-left: 200px;
+}
+
+.logos img {
+    width: 20px;
+}
+
+.fb {
+    margin-top: 120px;
+}
+
+.tw {
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+.ig {
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+.logo {
+    background-color: #6278f7;
+    align-items: center;
+}
+
+.logo img {
+    margin-left: 310px;
+    width: 170px;
+    margin-top: 100px;
+}
